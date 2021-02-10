@@ -7,7 +7,6 @@
 }
 
 section {
-    
     background-color:red;
     color: white;
     height: 220px;
@@ -16,11 +15,9 @@ section {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     border-radius: 40px;
-
 }
 
 .my-name-is {
-    
     background-color:red;
     color: white;
     height: 275px;
@@ -31,9 +28,6 @@ section {
     margin:0;
     border-radius: 40px;
     border-width: 5%;
-   
-
-
 }
 
 .name {
